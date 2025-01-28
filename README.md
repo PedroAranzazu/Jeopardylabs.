@@ -1,3 +1,23 @@
+
+Juego de trivia utilizando React + js , cada recuadro abre un modal y dependiendo si la pregunta fue respondida correctamente o incorrectamente
+se suman o se restan los puntos
+![image](https://github.com/user-attachments/assets/a70ccd38-86b9-4a74-919b-bdf96511efd8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
